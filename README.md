@@ -1,1 +1,1 @@
-Waiting for first release
+Download latest release in RELEASES page
